@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samanekz&show_icons=true&locale=en&layout=compact" alt="samanekz" /></p></div>
-
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samanekz&show_icons=true&locale=en" alt="samanekz" /></p></div>
 
 <div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanekz&" alt="samanekz" /></p></div>
