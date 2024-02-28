@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on online shopping and making a profile for UX Design
-- 🌱 I’m currently learning Python and Digital Prototyping and Product Development
+- 🔭 I’m currently working on a small project with Django, making my first UX Design Portfolio and start a new Project for my forntend program.
+- 🌱 I’m currently learning Pythonand django, Digital Prototyping and Product Development
 - 👯 I’m looking to collaborate on frontend projects
 - 📫 How to reach me: skarimianz@gmail.com
 
